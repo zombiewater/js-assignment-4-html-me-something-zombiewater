@@ -1,1 +1,36 @@
 /* Write your CSS here! */
+
+#p2{
+    text-align: center;
+}
+
+#p3{
+    text-align:center
+}
+body {
+    margin: 8px;
+    border: 1px solid black
+}
+
+#mainHeading {
+    color: red;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+.funParagraph{
+    color: green;
+    text-align: center;    
+}
+
+footer {
+    border: 10px solid black;
+    text-align: center;
+}
+
+.launchCode-Logo{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
